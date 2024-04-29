@@ -4,7 +4,7 @@ setup(
     name='stock-forecast-app',
     version='1.0.0',
     packages=find_packages(),
-    python_requires='==3.8.0',
+    python_requires='>=3.7, <3.11',
     install_requires=[
         'streamlit',
         'numpy',
