@@ -95,4 +95,4 @@ st.pyplot(fig_pred)
 
 # Display contact information
 st.sidebar.subheader('Contact Information')
-st.sidebar.text('Developer: Your Name')
+st.sidebar.text('Developer: Disha Barmola')
